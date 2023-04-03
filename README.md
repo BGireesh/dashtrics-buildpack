@@ -1,4 +1,4 @@
-Heroku Buildpack for Metabase
+Heroku Buildpack for Metabase pro
 
 Add the following to your app.json:
 
